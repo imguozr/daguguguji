@@ -129,7 +129,7 @@
 
 ## PART IV 野生郭东林仿写
 
-* [Untitled](part-iv-ye-sheng-guo-dong-lin-fang-xie/untitled.md)
+* [寿司机器人](part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren.md)
 
 ## PART V 知乎网严肃文学评论家文评集锦
 
@@ -142,6 +142,8 @@
 ## PART VII 补录
 
 * [Untitled](part-vii-bu-lu/untitled.md)
+* [一个狗和大山](part-vii-bu-lu/yi-ge-gou-he-da-shan.md)
+* [一个狗和河](part-vii-bu-lu/yi-ge-gou-he-he.md)
 * [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le.md)
 * [现实中骚的女的到底多不多](part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo.md)
 

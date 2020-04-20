@@ -12,6 +12,10 @@ _@naoyeye 20181109 酒仙桥_
 
 [《特师文集》](https://mindfucking.gitbook.io/daguguguji/)
 
+## 本项目源代码
+
+https://github.com/MindFxck/daguguguji
+
 ## 进度
 
 I 小说与散文
@@ -138,7 +142,7 @@ III 段子与微评
 
 IV 野生郭东林仿写
 
-* [ ] 114: 寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师
+* [x] 114: [寿司机器人 \(微信朋友圈首发原创\) —— 举狗老师](https://mindfucking.gitbook.io/daguguguji/part-iv-ye-sheng-guo-dong-lin-fang-xie/shou-si-ji-qi-ren)
 * [ ] 115: 动物园里的故事后一篇 —— dearbear
 * [ ] 116: K1058 次列车，我，一个猴，到青海去 —— 时间大哥我错了
 
@@ -182,8 +186,8 @@ VII 补录
 * [ ] 147: 我路过城市的每一面躯体（ZT）
 * [ ] 148: 畜生开会
 * [ ] 149: 我今天就说句大实话
-* [ ] 150: 一个狗和大山
-* [ ] 151: 一个狗和河
+* [x] 150: [一个狗和大山](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-da-shan)
+* [x] 151: [一个狗和河](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/yi-ge-gou-he-he)
 * [ ] 152: 下午在大润发水产区闲逛，看见一条鲫鱼吹牛
 * [ ] 153: [我今天去朋友家，发生了一个状况，家里的猫把塑料袋吃了](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/wo-jin-tian-qu-peng-you-jia-fa-sheng-le-yi-ge-zhuang-kuang-jia-li-de-mao-ba-su-liao-dai-chi-le)
 * [ ] 154: [现实中骚的女的到底多不多](https://mindfucking.gitbook.io/daguguguji/part-vii-bu-lu/xian-shi-zhong-sao-de-nv-de-dao-di-duo-bu-duo)
@@ -196,14 +200,18 @@ VII 拾遗
 
 本文集的文字内容会基于以下内容整理：
 
-* [book.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.pdf)
-* [book.txt](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/book.txt)
+* [特师文集.pdf](https://github.com/MindFxck/daguguguji/blob/master//特师文集.pdf)
+* [book.txt](https://github.com/MindFxck/daguguguji/blob/master/book.txt)_（特师文集.pdf的txt自动转换版）_
 * [佛搂蜜的诗](https://hongyangchun.wordpress.com/category/佛搂蜜的诗/)
 * [人间动物园](http://lidamao.com)
 * [张大锤](https://www.jianshu.com/u/6a4cf8d99999)
-* [人间动物园.pdf](https://github.com/naoyeye/daguguguji/tree/4c51e1fc5f00f19ab11c066c91aad9ebd60709e5/人间动物园.pdf)
+* [人间动物园.pdf](https://github.com/MindFxck/daguguguji/blob/master/人间动物园.pdf)
 
 ## 一些命令
+
+### 获取 GitHub Repo
+
+`git clone git@github.com:MindFxck/daguguguji.git`
 
 ### gitbook简明教程
 
@@ -233,6 +241,7 @@ VII 拾遗
 
 * [孬爷爷](https://www.douban.com/people/post-rocker)
 * [⭐️](https://www.douban.com/people/onestar)
+* [imguozr](https://github.com/imguozr)
 
 ## 免责声明
 
